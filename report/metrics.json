@@ -1,0 +1,22 @@
+{
+  "dataset_rows": 569,
+  "feature_count": 30,
+  "train_rows": 398,
+  "validation_rows": 85,
+  "test_rows": 86,
+  "missing_values": 0,
+  "duplicate_rows": 0,
+  "malignant_cases": 212,
+  "benign_cases": 357,
+  "validation_accuracy": 0.9882352941176471,
+  "test_accuracy": 0.9418604651162791,
+  "malignant_precision": 0.9655172413793104,
+  "malignant_recall": 0.875,
+  "malignant_f1": 0.9180327868852459,
+  "malignant_roc_auc": 0.9918981481481481,
+  "training_iterations": 51,
+  "target_mapping": {
+    "0": "malignant",
+    "1": "benign"
+  }
+}

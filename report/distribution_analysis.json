@@ -1,0 +1,12 @@
+{
+  "feature": "mean radius",
+  "count": 569,
+  "mean": 14.127291739894552,
+  "median": 13.37,
+  "std": 3.5240488262120775,
+  "skewness": 0.9423795716730993,
+  "excess_kurtosis": 0.8455216229065368,
+  "shapiro_wilk_statistic": 0.9410690724099641,
+  "shapiro_wilk_p_value": 3.105643573333165e-14,
+  "interpretation": "Reject the normality null hypothesis at alpha=0.05."
+}
